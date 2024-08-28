@@ -1,8 +1,6 @@
 {
   "name": "@ir-engine/ir-template",
   "version": "0.0.0",
-  "description": "",
-  "main": "",
   "scripts": {
     "test": "mocha --config .mocharc.js",
     "check-errors": "tsc --noemit",
@@ -10,9 +8,6 @@
     "format-scss": "stylelint \"**/*.scss\" --fix",
     "format-staged": "lint-staged"
   },
-  "peerDependencies": {},
-  "dependencies": {},
-  "devDependencies": {},
   "license": "ISC",
   "pre-commit": [
     "format-staged"
