@@ -1,0 +1,19 @@
+{
+  "assets/ss_meeting.glb": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-template/public/thumbnails/assets_ss_meeting.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "public/scenes/New-Scene.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/default-project/public/scenes/default.thumbnail.jpg"
+  }
+}
